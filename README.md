@@ -3,7 +3,6 @@
 🎓 *Biostatistics · Statistical Programmer*  
 📚 Student Member, American Statistical Association (ASA)  
 📍 Based in the U.S. | Bayesian Inference · High-Dimensional Statistics · Clinical Trials  
-[🌐 Website](https://cassie0729.github.io/mysite/)
 
 ---
 
@@ -62,7 +61,7 @@
 
 ## 📫 Contact Me  
 📧 **Email:** chennianlin26@163.com  
-🔗 **Website:** https://cassie0729.github.io/mysite/  
+🔗 **Website:** [🌐 Website](https://cassie0729.github.io/mysite/)  
 🐙 **GitHub:** https://github.com/cassie0729 
 
 ---
