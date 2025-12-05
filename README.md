@@ -5,7 +5,7 @@
 
 ---
 
-[🌐 Website](https://cassiechen.github.io/mysite/)
+[🌐 Website](https://cassie0729.github.io/mysite/)
 
 ---
 
@@ -64,7 +64,7 @@
 
 ## 📫 Contact Me  
 📧 **Email:** chennianlin26@163.com  
-🔗 **Website:** https://cassiechen.github.io/mysite/  
-🐙 **GitHub:** https://github.com/cassiechen  
+🔗 **Website:** https://cassie0729.github.io/mysite/  
+🐙 **GitHub:** https://github.com/cassie0729 
 
 ---
