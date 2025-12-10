@@ -19,7 +19,6 @@
 ## 🧠 Selected Projects
 - **Bootstrap CIs for PCA Eigenvalues**  
   High-dimensional PCA inference using simulation & bootstrap resampling.  
-  *→ Full project:* https://cassiechen.github.io/mysite/projects/bootstrap.html
 
 - **Bayesian Genetic Structure via HMC**  
   Hamiltonian Monte Carlo for population-structure inference.
@@ -30,7 +29,7 @@
 - **Clinical Trial ADaM QC Automation**  
   Production/validation automation for SDTM → ADaM pipelines.
 
-*See all projects → https://cassiechen.github.io/mysite/projects/*
+*See all projects → https://cassie0729.github.io/mysite/projects/*
 
 ---
 
