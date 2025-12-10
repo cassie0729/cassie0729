@@ -26,9 +26,6 @@
 - **dPCA Package Development**  
   Dimensionality reduction for complex high-dimensional biological datasets (R).  
 
-- **Clinical Trial ADaM QC Automation**  
-  Production/validation automation for SDTM → ADaM pipelines.
-
 *See all projects → https://cassie0729.github.io/mysite/projects/*
 
 ---
@@ -44,7 +41,7 @@
 ## 🛠 Tech Stack  
 💻 **SAS** (Advanced Certified)  
 📐 **R** — tidyverse, ggplot2, rstan  
-🐍 **Python** — pandas, sklearn, PyMC3  
+🐍 **Python** — pytorch, pandas, numpy, sklearn, PyMC3  
 🗂️ **SQL**  
 🧮 **MATLAB**  
 📄 **Git**, LaTeX, Quarto  
