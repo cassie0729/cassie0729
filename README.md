@@ -49,7 +49,7 @@
 ---
 
 ## ✨ What I'm Doing Now  
-- Preparing for **PhD applications in Biostatistics**  
+- Preparing for **PhD applications in Biostatistics/Statistics**  
 - Building methods & tools for biomedical high-dimensional data  
 - Expanding Bayesian inference and computational statistics skills  
 
